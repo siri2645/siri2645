@@ -1,0 +1,7 @@
+promenthes-operator helm chart
+==============================
+kube-prometheus-stack 70.10.0 · prometheus/prometheus-community
+
+how to create custom alerts for this follow below document
+==========================================================
+https://medium.com/@muppedaanvesh/a-hands-on-guide-setting-up-prometheus-and-alertmanager-in-kubernetes-with-custom-alerts-%EF%B8%8F-f9c6d37b27ca
